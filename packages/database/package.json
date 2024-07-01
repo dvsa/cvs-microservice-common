@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "mybatis-mapper": "^0.8.0",
-    "mysql2": "^3.10.1"
+    "mysql2": "^3.10.2"
   },
   "devDependencies": {
     "@types/aws-lambda": "^8.10.140",
